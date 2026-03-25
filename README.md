@@ -2,7 +2,7 @@
 
 A full-stack algorithmic stock analysis platform that evaluates public companies through a **7-investor mathematical pipeline** and generates an AI-powered investment report using a local LLM. 
 
-![InvestOR Dashboard](./assets/dashboard-1.png)
+![InvestOR Dashboard](./assets/hero-dashboard.png)
 
 Built with **FastAPI** (Python), **React** (TypeScript / Vite / Tailwind CSS), and **Azure Functions** for serverless cloud automation.
 
@@ -18,6 +18,9 @@ Built with **FastAPI** (Python), **React** (TypeScript / Vite / Tailwind CSS), a
 ---
 
 ## 📸 UI & Functionality Showcase
+
+### Main Dashboard Overview
+![InvestOR Main](./assets/dashboard-1.png)
 
 ### Comprehensive Metrics & Pass/Fail Criteria
 The platform computes real-time Intrinsic Value (using a dynamic FCF-based DCF), Margin of Safety, ROIC, and more.
