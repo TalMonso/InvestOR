@@ -8,6 +8,7 @@
 *.key
 *.pem
 credentials.json
+local.settings.json
 
 # ========================
 #  Python
@@ -49,7 +50,7 @@ Thumbs.db
 # ========================
 #  IDE / Editor
 # ========================
-.vscode/
+
 .idea/
 *.suo
 *.ntvs*
